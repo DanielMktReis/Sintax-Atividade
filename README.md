@@ -4,7 +4,7 @@
 
 <h1>Kotlin • Visual Studio • GitHub</h1>
  
-<h1>🔰 Inicialização 🔰</h1>
+<h1>🔰 Inicialização 🔰
 
 <br>
 
