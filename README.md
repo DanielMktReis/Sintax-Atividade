@@ -23,3 +23,5 @@ Developed by Daniel Paiva
 
 🔒 Licence
 MIT
+
+![image](https://github.com/user-attachments/assets/1494180e-dcbd-492a-a09f-0be163a38a37)
