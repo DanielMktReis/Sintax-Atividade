@@ -3,7 +3,7 @@
  Segue alguns exercícios feito na linguagem de programação Kotlin!</h1>
 
 <h1>Kotlin • Visual Studio • GitHub</h1>
-<h1>
+ 
 <h1>🔰 Inicialização 🔰</h1>
 
 <br>
