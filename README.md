@@ -20,7 +20,7 @@ Ferramentas tecnológicas foram usadas para fazer o programa
 IDE: Visual Studio
 
 😁 Autor
-Developed by Daniel Paiva
+Developed by Daniel Reis
 
 🔒 Licence
 MIT
