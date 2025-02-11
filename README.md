@@ -1,9 +1,9 @@
-# Sintax-Atividade!
+<h1># Sintax-Atividade!
 
- <h1>Segue alguns exercícios feito na linguagem de programação Kotlin!</h1>h1
+ Segue alguns exercícios feito na linguagem de programação Kotlin!</h1>
 
-Kotlin • Visual Studio • GitHub
-
+<h1>Kotlin • Visual Studio • GitHub</h1>
+<h1>
 🔰 Inicialização 🔰
 
 📜 Objetivo
@@ -24,5 +24,6 @@ Developed by Daniel Reis
 
 🔒 Licence
 MIT
+</h1>
 
-![image](https://github.com/user-attachments/assets/1494180e-dcbd-492a-a09f-0be163a38a37)
+<h1>![image](https://github.com/user-attachments/assets/1494180e-dcbd-492a-a09f-0be163a38a37)</h1>
