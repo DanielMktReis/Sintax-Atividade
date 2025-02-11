@@ -4,7 +4,9 @@
 
 <h1>Kotlin • Visual Studio • GitHub</h1>
 <h1>
-🔰 Inicialização 🔰
+<h1>🔰 Inicialização 🔰</h1>
+
+<br>
 
 📜 Objetivo
 Cumprir os 10 exercícios passados pelo professor
