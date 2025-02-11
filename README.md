@@ -28,4 +28,4 @@ Developed by Daniel Reis
 MIT
 </h1>
 
-<h1>![image](https://github.com/user-attachments/assets/1494180e-dcbd-492a-a09f-0be163a38a37)</h1>
+![image](https://github.com/user-attachments/assets/1494180e-dcbd-492a-a09f-0be163a38a37)
