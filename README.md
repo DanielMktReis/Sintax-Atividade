@@ -1,24 +1,25 @@
 # Sintax-Atividade!
 
-Uso de Kotlin
+Segue alguns exercícios feito na linguagem de programação Kotlin!
 
-Status • Objective • Installation • Technology • Author • License
+Kotlin • Visual Studio • GitHub
 
 🔰 Initiated 🔰
 
-📜 Objective
-The goal is to improve unit testing.
-The advantages of testing our applications.
-Learn new testing tools.
-📋 Installation
-Clone the repo.
-Install Visual Studio.
-🧰 Technology
-The following tools were used in the construction of the project:
+📜 Objetivo
+Cumprir os 10 exercícios passados pelo professor
+ 
+📋 Instalção
+
+Foi necessário usar o Visual Studio (já estava instalado) 
+
+🧰 Tecnologia
+
+Ferramentas tecnológicas foram usadas para fazer o programa
 
 IDE: Visual Studio
-SDK: Net FrameWork 4.8
-😁 Author
+
+😁 Autor
 Developed by Daniel Paiva
 
 🔒 Licence
