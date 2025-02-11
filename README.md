@@ -4,7 +4,7 @@ Segue alguns exercícios feito na linguagem de programação Kotlin!
 
 Kotlin • Visual Studio • GitHub
 
-🔰 Initiated 🔰
+🔰 Inicialização 🔰
 
 📜 Objetivo
 Cumprir os 10 exercícios passados pelo professor
